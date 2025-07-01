@@ -1,4 +1,4 @@
-# 🚀 R2 Testnet Automation Bot
+# 🚀 R2 Testnet Final Automation Bot
 **By ADFMIND TEAM**  
 🔁 Auto Swap | 💧 Add Liquidity | 🪙 Stake | 🔄 Full Flow  
 ✅ Siap jalan untuk farming dan eksplorasi testnet R2
@@ -69,6 +69,9 @@ git clone https://github.com/AirdropFamilyIDN-V2-0/R2-Testnet-S1.git
 cd R2-Testnet-S1
 ```
 # Install modul yang di butuhkan !
+```
+pip install web3 eth_abi rich
+```
 ```
 python bot.py
 ```
